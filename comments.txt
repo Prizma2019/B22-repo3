@@ -11,3 +11,11 @@ few things happened:
  3. we want this change to be reflected in remote repository
  so we pushed local commit to remote repository using push origin button
  4. Observe it has been added in your repository under GitHub.com
+
+ How to save after adding some text in sublime
+
+ on Mac Command +S
+ on Windows COntrol +S
+ or click on file-->Safe
+
+ if you dont safe there is nothing saves and nothing to commit
