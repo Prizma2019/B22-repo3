@@ -19,3 +19,6 @@ few things happened:
  or click on file-->Safe
 
  if you dont safe there is nothing saves and nothing to commit
+
+
+ We dont have to push one commit at a time. 
