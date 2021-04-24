@@ -22,3 +22,4 @@ few things happened:
 
 
  We dont have to push one commit at a time. 
+ We can push multiplce commit in one shot- there is no limit
